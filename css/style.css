@@ -463,6 +463,8 @@ input[type="radio"]:not(:checked) + label:after {
 
 .header-logo a {
   padding: 0;
+  font-weight: bold;
+  font-size: x-large;
 }
 .navbar .menu a {
   padding: 0 8px;
@@ -484,7 +486,7 @@ header label {
   -webkit-transform: translateY(0.1em) translateX(0.5em);
 }
 .copyright {
-  font-size: 14px;
+  font-size: 12px;
 }
 .pagination {
   display: flex;
